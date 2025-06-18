@@ -5,9 +5,7 @@
 
 <!-- 3D Profile Cards -->
 <div align="center">
-  <a href="https://app.daily.dev/abhi293">
-    <img src="https://api.daily.dev/devcards/9b3b3b3b3b3b3b3b3b3b3b3b3b3b3b3b.png" width="400" alt="Abhinav Anand's Dev Card">
-  </a>
+<a href="https://app.daily.dev/abhi293"><img src="https://api.daily.dev/devcards/v2/CbaMamr0Rqp8kqBQ970xY.png?type=default&r=zrs" width="356" alt="Abhinav Anand's Dev Card"/></a>
   <img src="https://github-readme-stats.vercel.app/api?username=abhi293&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="400" alt="GitHub Stats">
 </div>
 
