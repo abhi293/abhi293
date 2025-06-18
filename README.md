@@ -18,13 +18,13 @@
 </div>
 
 <div align="center">
-  <a href="[LINK_TO_META_CERT_ON_LINKEDIN]">
+  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200/details/certifications/">
     <img src="https://img.shields.io/badge/Meta-Backend_Professional-0468D7?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Certified">
   </a>
-  <a href="[LINK_TO_AWS_CERT_ON_LINKEDIN]">
+  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200/details/certifications/">
     <img src="https://img.shields.io/badge/AWS-Certified_DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified">
   </a>
-  <a href="[LINK_TO_AZURE_CERT_ON_LINKEDIN]">
+  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200/details/certifications/">
     <img src="https://img.shields.io/badge/Microsoft_Azure-Expert-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Certified">
   </a>
 </div>
