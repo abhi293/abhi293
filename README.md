@@ -1,108 +1,115 @@
-<!-- Futuristic Cyberpunk Header -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=4000&pause=500&color=00F718&background=00000000&center=true&vCenter=true&width=1000&lines=%2F%2F+Welcome+to+my+digital+realm;ABHINAV+ANAND;FULL-STACK+%7C+CLOUD+%7C+AI+ARCHITECT" alt="Cyberpunk Typing Animation">
-</div>
+![MasterHead](https://raw.githubusercontent.com/nikhilij/nikhilij/refs/heads/main/boitumelo-CJJdMHz4s5c-unsplash.jpg)
+<h1 align="center">Hi 👋, I'm Abhinav Anand</h1>
+<h3 align="center" style="font-weight: bold;">🚀 Full-Stack Dev | AI Wizard | Crafting Epic Solutions 🥹🥹✨✨</h3>
+<img align="center" width="100%" height="500px" alt="coding" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
 
-<!-- Green Matrix Code -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM0aXFsejJkMWRyYW96OWVjYTVzamRicGxmYW82ZjcwaWR4Nm1xOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H7llxoUnid1u27TkaH/giphy.gif" heighr="100vh" width="100%" alt="Green Matrix Code">
-</div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi293&label=Profile%20views&color=0e75b6&style=flat" alt="abhi293" /> </p>
 
-<!-- Glowing Divider -->
-<img src="https://i.gifer.com/Cad.gif" height="40px" width="100%" alt="Glow Divider">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi293" alt="abhi293" /></a> </p>
 
-<!-- 3D Profile Cards with Holographic Effect -->
-<div align="center" style="position:relative;">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDQ2Nm5wdmZ3ZTc1MXZ4aDh4NHZma2ZmMTAzcDkwcXI4dDJtZXRuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uK1NNHB1Bkxfz8O1hI/giphy.gif" width="100%" style="position:absolute;opacity:0.1;z-index:-1;" alt="Holographic Background">
-  <a href="https://app.daily.dev/abhi293">
-    <img src="https://api.daily.dev/devcards/v2/CbaMamr0Rqp8kqBQ970xY.png?type=default&r=zrs" width="356" alt="Abhinav's Dev Card" style="border:2px solid #00F718;border-radius:15px;box-shadow:0 0 20px #00F718;">
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi293&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00F718&text_color=FFFFFF&icon_color=00F718" width="400" style="border:2px solid #00F718;border-radius:15px;box-shadow:0 0 20px #00F718;">
-</div>
+I'm a passionate coder blending **full-stack magic** with **AI innovation** to build game-changing apps! 🌟 Currently rocking projects like a **Multi-Agent AI for Retail** and a **Product Management App**, while leveling up in **Generative AI**, **React.js**, and **Cloud Computing**. Let’s create something awesome together! 🥹🥹✨✨
 
-<!-- Certifications Section with Cyberpunk Theme -->
-## <img src="https://i.imgur.com/5Q6wv3L.gif" width="30"> **Certified Tech Arsenal**
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200/details/certifications/" target="_blank">
-    <img src="https://img.shields.io/badge/ACCESS_MY_CREDENTIALS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=00F718">
-  </a>
-</div>
+---
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200/details/certifications/">
-    <img src="https://img.shields.io/badge/META_BACKEND_PRO-0468D7?style=for-the-badge&logo=meta&logoColor=white&labelColor=000000">
-  </a>
-  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200/details/certifications/">
-    <img src="https://img.shields.io/badge/AWS_DEVOPS_ENGINEER-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black&labelColor=000000">
-  </a>
-  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200/details/certifications/">
-    <img src="https://img.shields.io/badge/AZURE_EXPERT-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000">
-  </a>
-</div>
+### 🔭 Current Projects
+- **Team-Inventory_Ai** 🛒: Multi-agent AI optimizing retail with demand forecasting & pricing (Python, ML).  
+- **productapp** 🛍️: Full-stack app with JWT auth, building a slick React frontend (Node.js, React).  
+- **NikAssistant** 🧠: AI productivity buddy for tasks & email reminders (Python, Streamlit).  
+- **YoCodex** 📝: Blogging hub for tech tutorials & community collab (JavaScript, Node.js).  
+- **Task-Management-API** ✅: Robust task management API (Node.js, MongoDB).  
+- **SportsSphere** ⚽: Sports platform with events & store (Node.js, PostgreSQL, Stripe).  
+- **AI-Agent-MarketPlace-Platform** 🤖: Decentralized AI agent marketplace with API access.  
+- **AI-Video-Summarizer** 🎥: Video summarization powered by Gemini 2.0 Flash (Python).
 
-<!-- Tech Stack with Animated Icons -->
-## <img src="https://i.imgur.com/JK4m5rP.gif" width="30"> **Tech Stack**
-### <img src="https://i.imgur.com/bc87e5b.gif" width="20"> Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,go,ruby&theme=dark&perline=8" alt="Languages">
-</div>
+---
 
-### <img src="https://i.imgur.com/5Q6wv3L.gif" width="20"> Web Development
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,angular,vue,nodejs,express,nestjs,graphql&theme=dark&perline=8" alt="Web Dev">
-</div>
+### 🌱 Learning Focus
+- **Generative AI** 🎨: Mastering GANs & Transformers with fun mini-projects.  
+- **React.js** ⚛️: Building cool apps to ace components & hooks.  
+- **Cloud Computing** ☁️: Diving into AWS for certifications & deployments.  
+- **Java Servlets** ☕: Learning server-side Java step-by-step.
 
-### <img src="https://i.imgur.com/JK4m5rP.gif" width="20"> Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,terraform,githubactions,ansible&theme=dark&perline=8" alt="Cloud">
-</div>
+---
 
-<!-- Project Showcase with Cyberpunk Theme -->
-## <img src="https://i.imgur.com/bc87e5b.gif" width="30"> **Project Showcase**
-<details>
-<summary><b><img src="https://i.imgur.com/5Q6wv3L.gif" width="20"> AI/ML Innovations</b></summary>
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Review Classifier](https://github.com/abhi293/AI-Review-Classifier) | NLP model for sentiment analysis | <img src="https://skillicons.dev/icons?i=python,tensorflow,nodejs" width="120"> |
-| [Object Detection](https://github.com/abhi293/Object-Detection) | Real-time YOLO implementation | <img src="https://skillicons.dev/icons?i=python,opencv,pytorch" width="120"> |
-</details>
+### 💡 Business Ideas
+- **Twitter Marketing AI** 📱: AI agents for tweets & analytics, sold via subscription APIs.  
+- **Recruiter Website** 💼: Job portal with resume uploads & smart matching.  
+- **Omegle-like Website** 🗣️: Random chat platform with real-time vibes.
 
-<details>
-<summary><b><img src="https://i.imgur.com/JK4m5rP.gif" width="20"> Cloud Architectures</b></summary>
-  
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Cloud CI/CD](https://github.com/abhi293/Cloud-DevOps) | Multi-cloud deployment pipeline | <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes" width="120"> |
-| [Serverless API](https://github.com/abhi293/Serverless-API) | AWS Lambda microservices | <img src="https://skillicons.dev/icons?i=nodejs,aws,dynamodb" width="120"> |
-</details>
+---
 
-<!-- GitHub Stats with Cyberpunk Theme -->
-## <img src="https://i.imgur.com/5Q6wv3L.gif" width="30"> **Code Pulse**
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi293&theme=2077" width="45%" style="border:1px solid #00F718;border-radius:10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi293&theme=2077" width="45%" style="border:1px solid #00F718;border-radius:10px;">
-</div>
+### 👯 Open to Collaboration
+- Full-stack projects with **React**, **Node.js**, or **Django**.  
+- AI/ML adventures in **NLP** or **multi-agent systems**.  
+- Open-source fun to learn & grow! 🌟
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi293&theme=react-dark&bg_color=000000&hide_border=true&area=true&area_color=00F718&line=00F718&point=FFFFFF&custom_title=MY+CODING+ACTIVITY" width="90%" style="border:1px solid #00F718;border-radius:10px;">
-</div>
+---
 
-<!-- Contact Section with Neon Buttons -->
-## <img src="https://i.imgur.com/JK4m5rP.gif" width="30"> **Connect With Me**
-<div align="center">
-  <a href="https://www.linkedin.com/in/abhinav-anand-9460b0200">
-    <img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=00F718">
-  </a>
-  <a href="mailto:anandabhinav293@gmail.com">
-    <img src="https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=00F718">
-  </a>
-  <a href="https://github.com/abhi293">
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=00F718">
-  </a>
-</div>
+### 🤝 Need Help With
+- Advanced **AI** (NLP, LLMs, Generative AI).  
+- Scaling **backend systems** & **cloud deployments**.  
+- Best practices for **AWS** & app optimization.
 
-<!-- Animated Cyberpunk Footer -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NGN1aWRnYmFtNDdmd2R6YzgzbTQ0emFyZ25xOWZmcXQ3bGZjdTlxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cKgnjkZU5ctfsZVGE1/giphy.gif" height="200vh" width="100%" alt="Cyberpunk Footer">
-</div>
+---
+
+### 💬 Ask Me About
+- **React**, **Node.js**, **Django**, or **Python**.  
+- Building APIs or AI-powered apps.  
+- My coding journey! 🥹🥹✨✨
+
+---
+
+### 📫 Reach Me
+- Email: [anandabhinav293@gmail.com](mailto:anandabhinav293@gmail.com)  
+- GitHub: [abhi293](https://github.com/abhi293)
+
+---
+
+### ⚡ Fun Fact
+My code might crash, but my passion never does! 😄
+
+---
+
+<h3 align="left">Connect with Me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abhinav-anand-9460b0200" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilsoni973" height="30" width="40" /></a>
+<a href="https://www.instagram.com/call.me_abhinav/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhil.jsx" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilprince973" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nikhil12soni" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nikhilprince973" height="30" width="40" /></a>
+<a href="#" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="nikhilprsd53" height="30" width="40" /></a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+</p>
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi293&show_icons=true&locale=en&layout=compact" alt="abhi293" /></p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhi293&show_icons=true&locale=en" alt="abhi293" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhi293&" alt="abhi293" /></p>
